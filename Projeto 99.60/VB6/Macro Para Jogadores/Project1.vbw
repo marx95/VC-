@@ -1,0 +1,12 @@
+Macro = 43, 21, 932, 472, Z, 100, 100, 989, 551, C
+jcbutton = 0, 0, 0, 0, C, 75, 75, 964, 526, C
+Global = 50, 50, 939, 501, C
+Cursor = 75, 75, 964, 526, C
+Key_Events = 125, 125, 1014, 576, C
+Download = 75, 75, 964, 526, C
+Inicio = 100, 100, 989, 551, C, 75, 75, 964, 526, C
+crc = 25, 25, 907, 476, C
+Registros = 50, 50, 931, 501, C
+Progressbar_user = 0, 0, 0, 0, C, 75, 75, 957, 526, C
+InternetModule = 109, 110, 991, 561, C
+Inicio_Veri = 0, 0, 881, 451, C

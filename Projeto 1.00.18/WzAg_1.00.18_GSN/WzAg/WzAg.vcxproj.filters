@@ -1,0 +1,367 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="AttackFix.cpp">
+      <Filter>Sistema de PVP</Filter>
+    </ClCompile>
+    <ClCompile Include="calcharacter.cpp">
+      <Filter>CalCharacter</Filter>
+    </ClCompile>
+    <ClCompile Include="ChaosBox.cpp">
+      <Filter>ChaosBox</Filter>
+    </ClCompile>
+    <ClCompile Include="defines.cpp">
+      <Filter>Definições</Filter>
+    </ClCompile>
+    <ClCompile Include="Comandos.cpp">
+      <Filter>Comandos :: ChatDataSend</Filter>
+    </ClCompile>
+    <ClCompile Include="Eventos.cpp">
+      <Filter>Eventos</Filter>
+    </ClCompile>
+    <ClCompile Include="Fixes.cpp">
+      <Filter>Fixes</Filter>
+    </ClCompile>
+    <ClCompile Include="Jogador.cpp">
+      <Filter>Estruturas</Filter>
+    </ClCompile>
+    <ClCompile Include="Mapas.cpp">
+      <Filter>Sistemar de Mapas</Filter>
+    </ClCompile>
+    <ClCompile Include="Funcoes_ASM.cpp">
+      <Filter>Funções</Filter>
+    </ClCompile>
+    <ClCompile Include="Funcoes_GS.cpp">
+      <Filter>Funções</Filter>
+    </ClCompile>
+    <ClCompile Include="Efeitos.cpp">
+      <Filter>Funções</Filter>
+    </ClCompile>
+    <ClCompile Include="Mssql_Defs.cpp">
+      <Filter>Mssql</Filter>
+    </ClCompile>
+    <ClCompile Include="Mssql_Handler.cpp">
+      <Filter>Mssql</Filter>
+    </ClCompile>
+    <ClCompile Include="Npc.cpp">
+      <Filter>Npcs</Filter>
+    </ClCompile>
+    <ClCompile Include="Reset.cpp">
+      <Filter>Npcs</Filter>
+    </ClCompile>
+    <ClCompile Include="Visual.cpp">
+      <Filter>Fixes</Filter>
+    </ClCompile>
+    <ClCompile Include="Noticias.cpp">
+      <Filter>Sistema de Noticias</Filter>
+    </ClCompile>
+    <ClCompile Include="Configs.cpp">
+      <Filter>Configurações Custons</Filter>
+    </ClCompile>
+    <ClCompile Include="Move.cpp">
+      <Filter>Sistema de Move</Filter>
+    </ClCompile>
+    <ClCompile Include="SistemaDrop.cpp">
+      <Filter>Sistema de Drop</Filter>
+    </ClCompile>
+    <ClCompile Include="Protocolos.cpp">
+      <Filter>Protocolos</Filter>
+    </ClCompile>
+    <ClCompile Include="WzAg.cpp">
+      <Filter>WzAg</Filter>
+    </ClCompile>
+    <ClCompile Include="WzAg_Exports.cpp">
+      <Filter>WzAg</Filter>
+    </ClCompile>
+    <ClCompile Include="Iniciar_DLL.cpp" />
+    <ClCompile Include="PVP.cpp">
+      <Filter>Sistema de PVP</Filter>
+    </ClCompile>
+    <ClCompile Include="Drop_Funcs.cpp">
+      <Filter>Sistema de Drop</Filter>
+    </ClCompile>
+    <ClCompile Include="sistema_pontos.cpp">
+      <Filter>Sistema de Pontos %28gObjLevelUp%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Npc_Maluco.cpp">
+      <Filter>Eventos\Npc Maluco</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_ChatOff_e_ChatOn.cpp">
+      <Filter>Comandos :: ChatDataSend\GameMaster</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_Evento.cpp">
+      <Filter>Comandos :: ChatDataSend\GameMaster</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_DroparItem.cpp">
+      <Filter>Comandos :: ChatDataSend\GameMaster</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_GmPuxarTodos.cpp">
+      <Filter>Comandos :: ChatDataSend\GameMaster</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_gMove.cpp">
+      <Filter>Comandos :: ChatDataSend\GameMaster</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_GmFala.cpp">
+      <Filter>Comandos :: ChatDataSend\GameMaster</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_RecarregarTudo.cpp">
+      <Filter>Comandos :: ChatDataSend\GameMaster</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_RecarregarMove.cpp">
+      <Filter>Comandos :: ChatDataSend\GameMaster</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_RecarregarMonstros.cpp">
+      <Filter>Comandos :: ChatDataSend\GameMaster</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_RecarregarLojas.cpp">
+      <Filter>Comandos :: ChatDataSend\GameMaster</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_RecarregarDrop.cpp">
+      <Filter>Comandos :: ChatDataSend\GameMaster</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_RecarregarConfig.cpp">
+      <Filter>Comandos :: ChatDataSend\GameMaster</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_PuxarTodos.cpp">
+      <Filter>Comandos :: ChatDataSend\GameMaster</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_Puxar.cpp">
+      <Filter>Comandos :: ChatDataSend\GameMaster</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_PersonagemInfo.cpp">
+      <Filter>Comandos :: ChatDataSend\GameMaster</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_InvocarMonstro.cpp">
+      <Filter>Comandos :: ChatDataSend\GameMaster</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_Skin.cpp">
+      <Filter>Comandos :: ChatDataSend\GameMaster</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_Aceitar.cpp">
+      <Filter>Comandos :: ChatDataSend\Jogador</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_Zen.cpp">
+      <Filter>Comandos :: ChatDataSend\Jogador</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_AdicionarPontos.cpp">
+      <Filter>Comandos :: ChatDataSend\Jogador</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_Ajuda.cpp">
+      <Filter>Comandos :: ChatDataSend\Jogador</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_Casar.cpp">
+      <Filter>Comandos :: ChatDataSend\Jogador</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_Divorciar.cpp">
+      <Filter>Comandos :: ChatDataSend\Jogador</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_Evo.cpp">
+      <Filter>Comandos :: ChatDataSend\Jogador</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_LimparInventario.cpp">
+      <Filter>Comandos :: ChatDataSend\Jogador</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_LimparPK.cpp">
+      <Filter>Comandos :: ChatDataSend\Jogador</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_MasterReset.cpp">
+      <Filter>Comandos :: ChatDataSend\Jogador</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_MudarBau.cpp">
+      <Filter>Comandos :: ChatDataSend\Jogador</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_MudarClasse.cpp">
+      <Filter>Comandos :: ChatDataSend\Jogador</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_Post.cpp">
+      <Filter>Comandos :: ChatDataSend\Jogador</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_Resetar.cpp">
+      <Filter>Comandos :: ChatDataSend\Jogador</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_TotalOn.cpp">
+      <Filter>Comandos :: ChatDataSend\Jogador</Filter>
+    </ClCompile>
+    <ClCompile Include="MapJoin.cpp">
+      <Filter>MapJoin</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="AttackFix.h">
+      <Filter>Sistema de PVP</Filter>
+    </ClInclude>
+    <ClInclude Include="calcharacter.h">
+      <Filter>CalCharacter</Filter>
+    </ClInclude>
+    <ClInclude Include="ChaosBox.h">
+      <Filter>ChaosBox</Filter>
+    </ClInclude>
+    <ClInclude Include="defines.h">
+      <Filter>Definições</Filter>
+    </ClInclude>
+    <ClInclude Include="Comandos.h">
+      <Filter>Comandos :: ChatDataSend</Filter>
+    </ClInclude>
+    <ClInclude Include="Eventos.h">
+      <Filter>Eventos</Filter>
+    </ClInclude>
+    <ClInclude Include="Fixes.h">
+      <Filter>Fixes</Filter>
+    </ClInclude>
+    <ClInclude Include="Jogador.h">
+      <Filter>Estruturas</Filter>
+    </ClInclude>
+    <ClInclude Include="Mapas.h">
+      <Filter>Sistemar de Mapas</Filter>
+    </ClInclude>
+    <ClInclude Include="Funcoes.h">
+      <Filter>Funções</Filter>
+    </ClInclude>
+    <ClInclude Include="Efeitos.h">
+      <Filter>Funções</Filter>
+    </ClInclude>
+    <ClInclude Include="Mssql_Handler.h">
+      <Filter>Mssql</Filter>
+    </ClInclude>
+    <ClInclude Include="Mssql_Defs.h">
+      <Filter>Mssql</Filter>
+    </ClInclude>
+    <ClInclude Include="Npc.h">
+      <Filter>Npcs</Filter>
+    </ClInclude>
+    <ClInclude Include="Reset.h">
+      <Filter>Npcs</Filter>
+    </ClInclude>
+    <ClInclude Include="SQLAPI.h">
+      <Filter>Mssql</Filter>
+    </ClInclude>
+    <ClInclude Include="VisualFix_Offsets.h">
+      <Filter>Fixes</Filter>
+    </ClInclude>
+    <ClInclude Include="Visual.h">
+      <Filter>Fixes</Filter>
+    </ClInclude>
+    <ClInclude Include="Noticias.h">
+      <Filter>Sistema de Noticias</Filter>
+    </ClInclude>
+    <ClInclude Include="Configs.h">
+      <Filter>Configurações Custons</Filter>
+    </ClInclude>
+    <ClInclude Include="Move.h">
+      <Filter>Sistema de Move</Filter>
+    </ClInclude>
+    <ClInclude Include="SistemaDrop.h">
+      <Filter>Sistema de Drop</Filter>
+    </ClInclude>
+    <ClInclude Include="Protocolos.h">
+      <Filter>Protocolos</Filter>
+    </ClInclude>
+    <ClInclude Include="WzAg.h">
+      <Filter>WzAg</Filter>
+    </ClInclude>
+    <ClInclude Include="Tokenizer.h">
+      <Filter>Funções</Filter>
+    </ClInclude>
+    <ClInclude Include="Estruturas.h">
+      <Filter>Estruturas</Filter>
+    </ClInclude>
+    <ClInclude Include="PVP.h">
+      <Filter>Sistema de PVP</Filter>
+    </ClInclude>
+    <ClInclude Include="Drop_Funcs.h">
+      <Filter>Sistema de Drop</Filter>
+    </ClInclude>
+    <ClInclude Include="sistema_pontos.h">
+      <Filter>Sistema de Pontos %28gObjLevelUp%29</Filter>
+    </ClInclude>
+    <ClInclude Include="Npc_Maluco.h">
+      <Filter>Eventos\Npc Maluco</Filter>
+    </ClInclude>
+    <ClInclude Include="Protocol.h">
+      <Filter>Estruturas</Filter>
+    </ClInclude>
+    <ClInclude Include="DbCharResult.h">
+      <Filter>Estruturas</Filter>
+    </ClInclude>
+    <ClInclude Include="MapJoin.h">
+      <Filter>MapJoin</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CalCharacter">
+      <UniqueIdentifier>{5f54a9f3-2738-4436-b1cf-c40b0f4ffeea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ChaosBox">
+      <UniqueIdentifier>{cc1c4580-a28f-44f5-95f9-921bb898f9eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Comandos :: ChatDataSend">
+      <UniqueIdentifier>{1ac5ebfd-b348-4987-aa2a-06e17280e0d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Definições">
+      <UniqueIdentifier>{47b9ca05-9398-47e7-ae16-e0ff4f75b81a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sistema de Drop">
+      <UniqueIdentifier>{7bc5de78-1685-4d76-940a-611fcbbd733c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fixes">
+      <UniqueIdentifier>{d6039a1a-c88b-4747-9b75-85ac409505d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Funções">
+      <UniqueIdentifier>{c2601a88-b552-496d-a1c0-babf2faaed3a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Estruturas">
+      <UniqueIdentifier>{94d9bcf7-975b-47cb-b795-d08d5225b32e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Eventos">
+      <UniqueIdentifier>{feb55e75-b878-497f-9193-590cf1caac1e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Npcs">
+      <UniqueIdentifier>{5b6a6c6f-599b-4849-b58d-4835d1868590}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sistemar de Mapas">
+      <UniqueIdentifier>{bca4da47-c807-4a9f-ab23-0924e433b164}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mssql">
+      <UniqueIdentifier>{c4e346d8-6612-4db8-8d14-584968e0598f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sistema de Noticias">
+      <UniqueIdentifier>{32a21b11-fff1-4211-a96a-b700dd5cfe52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Configurações Custons">
+      <UniqueIdentifier>{d349824f-36b5-455f-bac0-e4fd233178a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sistema de Move">
+      <UniqueIdentifier>{c8c48964-15ff-4d43-8022-bcec3fdf4af7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Protocolos">
+      <UniqueIdentifier>{8e45756b-94b1-4e6d-a76c-58c0099b0fdb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="WzAg">
+      <UniqueIdentifier>{71064bb0-4e8c-4bb9-8eae-6e67b8c34684}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sistema de PVP">
+      <UniqueIdentifier>{7974e4dd-20e5-41ab-a8ac-de25dfe2386a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Eventos\Npc Maluco">
+      <UniqueIdentifier>{dd433cb0-ebad-4a3f-b032-15125eeeb951}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MapJoin">
+      <UniqueIdentifier>{e3334144-5fa1-4d81-a6f2-3bb724bfc124}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Comandos :: ChatDataSend\GameMaster">
+      <UniqueIdentifier>{02d7396f-ecdb-4bc6-b915-ec0176c3b34f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Comandos :: ChatDataSend\Jogador">
+      <UniqueIdentifier>{0cfa685e-26d6-4a69-9d4c-0212239a0f42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sistema de Pontos %28gObjLevelUp%29">
+      <UniqueIdentifier>{01402994-71ed-4e78-868e-f50651e219c1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="sqlapi.lib">
+      <Filter>Mssql</Filter>
+    </Library>
+  </ItemGroup>
+</Project>

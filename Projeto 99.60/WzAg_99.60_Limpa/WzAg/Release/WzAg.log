@@ -1,0 +1,66 @@
+﻿Build started 22/02/2015 12:59:32.
+     1>Project "D:\Projetos\Projeto 99.60\WzAg_99.60_Limpa\WzAg\WzAg.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\WzAg.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _WINDLL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ChatChore.cpp calcharacter.cpp
+         ChatChore.cpp
+         calcharacter.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Projetos\Projeto 99.60\WzAg_99.60_Limpa\Release\WzAg.dll" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\WzAg.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Projetos\Projeto 99.60\WzAg_99.60_Limpa\Release\WzAg.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Projetos\Projeto 99.60\WzAg_99.60_Limpa\Release\WzAg.lib" /MACHINE:X86 /DLL Release\Attack.obj
+         Release\bonus_p_lvl.obj
+         Release\calcharacter.obj
+         Release\ChaosBox.obj
+         Release\cmm_addpontos.obj
+         Release\ChatChore.obj
+         Release\cmm_bau.obj
+         Release\cmm_Chuva.obj
+         Release\cmm_dc.obj
+         Release\cmm_drop.obj
+         Release\cmm_gmove.obj
+         Release\cmm_limparpk.obj
+         Release\cmm_MasterReset.obj
+         Release\cmm_post.obj
+         Release\cmm_puxar.obj
+         Release\cmm_puxartodos.obj
+         Release\cmm_rconfig.obj
+         Release\cmm_reset.obj
+         Release\Configs.obj
+         Release\defines.obj
+         Release\Drop_Funcs.obj
+         Release\Fixes.obj
+         Release\Funcoes_ASM.obj
+         Release\Funcoes_GS.obj
+         Release\GameServer.obj
+         Release\gObjAddSearch.obj
+         Release\GS.obj
+         Release\Items.obj
+         Release\JoinServer.obj
+         Release\MapJoin.obj
+         Release\Move.obj
+         Release\Mssql_Defs.obj
+         Release\Mssql_Queryes.obj
+         Release\Npc.obj
+         Release\ProtocolCore.obj
+         Release\PVP.obj
+         Release\SistemaDrop.obj
+         Release\TNotice.obj
+         Release\TNotice_Hook.obj
+         Release\Usuario.obj
+         Release\WzAg.obj
+         Release\WzAg_Exports.obj
+         sqlapi.lib
+            Creating library D:\Projetos\Projeto 99.60\WzAg_99.60_Limpa\Release\WzAg.lib and object D:\Projetos\Projeto 99.60\WzAg_99.60_Limpa\Release\WzAg.exp
+         Generating code
+         Finished generating code
+         WzAg.vcxproj -> D:\Projetos\Projeto 99.60\WzAg_99.60_Limpa\Release\WzAg.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Projetos\Projeto 99.60\WzAg_99.60_Limpa\Release\WzAg.dll;#2" /manifest Release\WzAg.dll.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\WzAg.unsuccessfulbuild".
+         Touching "Release\WzAg.lastbuildstate".
+     1>Done Building Project "D:\Projetos\Projeto 99.60\WzAg_99.60_Limpa\WzAg\WzAg.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:11.00

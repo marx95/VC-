@@ -1,0 +1,1 @@
+void JGGetCharacterInfo_Hook(struct SDHP_DBCHAR_INFORESULT* lpMsg);

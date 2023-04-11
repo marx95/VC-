@@ -1,0 +1,1 @@
+bool NpcClick (int aIndex, int NpcID);

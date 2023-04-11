@@ -1,0 +1,24 @@
+
+box.cmdline=
+box.encrypt=1
+box.packdefault=1
+box.separate=0
+box.sepfile=
+box.ziplevel=1
+box.zipthold=100
+dir.addfiles=D:\Projeto 99.60\WzAg_99.60_Limpa
+exe.crc=0
+exe.pack=1
+exe.packedfilesvisible=1
+exe.source=D:\Projeto 99.60\WzAg_99.60_Limpa\GS_Sem_Pack\GameServer.exe
+exe.target=GameServer.exe.exe
+key.0=8EF4EBB16176B7F3DF16F3B93E6CEAC5
+key.1=80D19FF561B44C79F033CC05337C321E
+
+box.contents~
+00 msvcp100.dll
+00 msvcr100.dll
+00 mumsg.dll
+00 sqlapi.dll
+00 WzAg.dll
+~

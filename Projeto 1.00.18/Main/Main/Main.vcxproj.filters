@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Configs.cpp" />
+    <ClCompile Include="AntiHack.cpp">
+      <Filter>AntiHack</Filter>
+    </ClCompile>
+    <ClCompile Include="Funcs.cpp">
+      <Filter>Funções</Filter>
+    </ClCompile>
+    <ClCompile Include="CRC.cpp">
+      <Filter>CRC</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="StdAfx.h" />
+    <ClInclude Include="AntiHack.h">
+      <Filter>AntiHack</Filter>
+    </ClInclude>
+    <ClInclude Include="Funcs.h">
+      <Filter>Funções</Filter>
+    </ClInclude>
+    <ClInclude Include="CRC.h">
+      <Filter>CRC</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="AntiHack">
+      <UniqueIdentifier>{2d000c3b-2fd3-404e-a4c7-2cdea106c04d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Funções">
+      <UniqueIdentifier>{a3e4a338-ad4d-47b1-9cc4-1be09134e2cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CRC">
+      <UniqueIdentifier>{b84c6263-1e03-4374-84e6-1952b784ad87}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

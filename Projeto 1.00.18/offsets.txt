@@ -1,0 +1,40 @@
+*(BYTE*)(0x0062D91B+3) = 0x50;	 //bow
+*(BYTE*)(0x0062D958+3) = 0x50;   //crowssbow
+
+*(BYTE*)(0x0062B89D+3) = 0x50;   //helmclass
+*(BYTE*)(0x0062B969+3) = 0x50;   //helmclass2
+*(BYTE*)(0x0062BA4C+3) = 0x50;   //helmclass3
+
+
+*(BYTE*)(0x0062BBE8+3) = 0x50;   //helmelf
+*(BYTE*)(0x0062BE15+3) = 0x50;   //helmmaletest
+
+*(BYTE*)(0x0062BB1A+3) = 0x50; 	 //helmmale
+*(BYTE*)(0x0062BEE1+3) = 0x50;   //helmmale 2
+*(BYTE*)(0x0062BFDB+3) = 0x50;   //helmmale 3
+*(BYTE*)(0x0062C0B0+3) = 0x50;   //helmmale 4
+
+
+*(BYTE*)(0x0062C17E+3) = 0x50;   //HDK
+*(BYTE*)(0x0062C28D+3) = 0x50;   //CW
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1 @@
+void ProtocolCore_Hook(unsigned char protoNum, unsigned char * aRecv, int aLen, int aIndex, int Encrypt, int serial);

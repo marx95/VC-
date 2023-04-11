@@ -1,0 +1,69 @@
+﻿Build started 03/07/2013 20:12:21.
+     1>Project "D:\ProjetoMuNovus\WzAg_1.00.18_GSN\WzAg_1.00.18_GSCS\WzAg\WzAg.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\WzAg.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _WINDLL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt AttackFix.cpp CalCharacter.cpp cmm_AdicionarPontos.cpp cmm_ChatOff_e_ChatOn.cpp cmm_GmFala.cpp cmm_Post.cpp Comandos.cpp Configs.cpp DefConfig.cpp defines.cpp Fixes.cpp Funcoes_ASM.cpp Funcoes_GS.cpp Iniciar_DLL.cpp Jogador.cpp Mapas.cpp Mssql_Defs.cpp Mssql_Handler.cpp Npc.cpp Protocolos.cpp Visual.cpp WzAg.cpp WzAg_Exports.cpp
+         AttackFix.cpp
+         CalCharacter.cpp
+         cmm_AdicionarPontos.cpp
+         cmm_ChatOff_e_ChatOn.cpp
+         cmm_GmFala.cpp
+         cmm_Post.cpp
+         Comandos.cpp
+         Configs.cpp
+         DefConfig.cpp
+         defines.cpp
+         Fixes.cpp
+         Funcoes_ASM.cpp
+         Funcoes_GS.cpp
+         Iniciar_DLL.cpp
+         Jogador.cpp
+         Mapas.cpp
+         Mssql_Defs.cpp
+         Mssql_Handler.cpp
+         Npc.cpp
+         Protocolos.cpp
+         Compiling...
+         Visual.cpp
+         WzAg.cpp
+         WzAg_Exports.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\ProjetoMuNovus\WzAg_1.00.18_GSN\WzAg_1.00.18_GSCS\Release\WzAg.dll" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\WzAg.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\ProjetoMuNovus\WzAg_1.00.18_GSN\WzAg_1.00.18_GSCS\Release\WzAg.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\ProjetoMuNovus\WzAg_1.00.18_GSN\WzAg_1.00.18_GSCS\Release\WzAg.lib" /MACHINE:X86 /DLL Release\AttackFix.obj
+         Release\CalCharacter.obj
+         Release\cmm_AdicionarPontos.obj
+         Release\cmm_ChatOff_e_ChatOn.obj
+         Release\cmm_GmFala.obj
+         Release\cmm_Post.obj
+         Release\Comandos.obj
+         Release\Configs.obj
+         Release\DefConfig.obj
+         Release\defines.obj
+         Release\Fixes.obj
+         Release\Funcoes_ASM.obj
+         Release\Funcoes_GS.obj
+         Release\Iniciar_DLL.obj
+         Release\Jogador.obj
+         Release\Mapas.obj
+         Release\Mssql_Defs.obj
+         Release\Mssql_Handler.obj
+         Release\Npc.obj
+         Release\Protocolos.obj
+         Release\Visual.obj
+         Release\WzAg.obj
+         Release\WzAg_Exports.obj
+         sqlapi.lib
+            Creating library D:\ProjetoMuNovus\WzAg_1.00.18_GSN\WzAg_1.00.18_GSCS\Release\WzAg.lib and object D:\ProjetoMuNovus\WzAg_1.00.18_GSN\WzAg_1.00.18_GSCS\Release\WzAg.exp
+         Generating code
+         Finished generating code
+         WzAg.vcxproj -> D:\ProjetoMuNovus\WzAg_1.00.18_GSN\WzAg_1.00.18_GSCS\Release\WzAg.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\ProjetoMuNovus\WzAg_1.00.18_GSN\WzAg_1.00.18_GSCS\Release\WzAg.dll;#2" /manifest Release\WzAg.dll.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\WzAg.unsuccessfulbuild".
+         Touching "Release\WzAg.lastbuildstate".
+     1>Done Building Project "D:\ProjetoMuNovus\WzAg_1.00.18_GSN\WzAg_1.00.18_GSCS\WzAg\WzAg.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:25.30

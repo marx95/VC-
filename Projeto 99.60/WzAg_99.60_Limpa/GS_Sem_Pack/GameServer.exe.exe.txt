@@ -1,0 +1,53 @@
+trial version is using debug starter always
+target executable D:\Projeto 99.60\WzAg_99.60_Limpa\GS_Sem_Pack\GameServer.exe.exe
+
+Relink 6 sections of executable
+SECTION  0(   .text):
++  compressed 2138112 -> 459306 bytes
++  encrypting 462848 bytes
++  adding 462848 bytes
+SECTION  1(  .rdata):
++  compressed 102400 -> 24555 bytes
++  encrypting 24576 bytes
++  adding 24576 bytes
+SECTION  2(   .data):
++  compressed 45056 -> 9060 bytes
++  encrypting 12288 bytes
++  adding 12288 bytes
+SECTION  3(  .idata):
++  compressed 16384 -> 4401 bytes
++  encrypting 8192 bytes
++  adding 8192 bytes
+SECTION  4(   .rsrc):
++  adding 16384 bytes
+SECTION  5(  .reloc):
++  skiped
+
+integrating starter
+SECTION  6: 131072 bytes
+starter compressed to 77824 bytes
+Target executable size has been set to 606208 bytes (23% of 2674795)
+
+PACKING DEFAULT PACKAGE
+using ZIP compression
+setting compression threshold to 100%
+using strong encryption
++ 133K(32.4%) 'msvcp100.dll'
++ 407K(54.0%) 'msvcr100.dll'
++  19K(39.8%) 'mumsg.dll'
++ 177K(45.6%) 'sqlapi.dll'
++  40K(46.4%) 'WzAg.dll'
+catalog: 144 bytes
+total: 1691K in 5 files
+
+STATISTICS
+
+size of program     -     528384 bytes
+size of bootstub    -      77824 bytes
+size of box         -     797535 bytes (46.1% of original)
+        total size  -    1403743 bytes
+
+exe packing         -          enabled
+exe CRC check       -         disabled
+bootstub            -          release
+SUCCESS

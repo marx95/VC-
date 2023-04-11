@@ -1,0 +1,33 @@
+﻿Build started 20/08/2014 01:40:13.
+     1>Project "D:\Projetos\Projeto 1.00.18\Main\Main\Main.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Release\Main.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Release\Main.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _WINDLL /D _MBCS /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt AntiHack.cpp Configs.cpp CRC.cpp Funcs.cpp main.cpp
+         AntiHack.cpp
+         Configs.cpp
+         CRC.cpp
+         Funcs.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Projetos\Projeto 1.00.18\Main\Release\Main.dll" /NOLOGO /MANIFEST /ManifestFile:"Release\Main.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Projetos\Projeto 1.00.18\Main\Release\Main.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Projetos\Projeto 1.00.18\Main\Release\Main.lib" /MACHINE:X86 /DLL Release\AntiHack.obj
+         Release\Configs.obj
+         Release\CRC.obj
+         Release\Funcs.obj
+         Release\main.obj
+            Creating library D:\Projetos\Projeto 1.00.18\Main\Release\Main.lib and object D:\Projetos\Projeto 1.00.18\Main\Release\Main.exp
+         Generating code
+         Finished generating code
+         Main.vcxproj -> D:\Projetos\Projeto 1.00.18\Main\Release\Main.dll
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Projetos\Projeto 1.00.18\Main\Release\Main.dll;#2" /manifest Release\Main.dll.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Release\Main.unsuccessfulbuild".
+         Touching "Release\Main.lastbuildstate".
+     1>Done Building Project "D:\Projetos\Projeto 1.00.18\Main\Main\Main.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.54

@@ -1,0 +1,149 @@
+﻿Build started 21/07/2014 02:11:24.
+     1>Project "D:\Projetos\Projeto 1.00.18\WzAg_1.00.18_GSN\WzAg\WzAg.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\WzAg.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _WINDLL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt AttackFix.cpp calcharacter.cpp ChaosBox.cpp cmm_Aceitar.cpp cmm_AdicionarPontos.cpp cmm_Ajuda.cpp cmm_Casar.cpp cmm_ChatOff_e_ChatOn.cpp cmm_Divorciar.cpp cmm_DroparItem.cpp cmm_Evento.cpp cmm_Evo.cpp cmm_GmFala.cpp cmm_gMove.cpp cmm_GmPuxarTodos.cpp cmm_InvocarMonstro.cpp cmm_LimparInventario.cpp cmm_LimparPK.cpp cmm_MasterReset.cpp cmm_MudarBau.cpp cmm_MudarClasse.cpp cmm_PersonagemInfo.cpp cmm_Post.cpp cmm_Puxar.cpp cmm_PuxarTodos.cpp cmm_RecarregarConfig.cpp cmm_RecarregarDrop.cpp cmm_RecarregarLojas.cpp cmm_RecarregarMonstros.cpp cmm_RecarregarMove.cpp cmm_RecarregarTudo.cpp cmm_Resetar.cpp cmm_Skin.cpp cmm_TotalOn.cpp cmm_Zen.cpp Comandos.cpp Configs.cpp defines.cpp Drop_Funcs.cpp Efeitos.cpp Eventos.cpp Fixes.cpp Funcoes_ASM.cpp Funcoes_GS.cpp Iniciar_DLL.cpp Jogador.cpp Mapas.cpp MapJoin.cpp Move.cpp Mssql_Defs.cpp Mssql_Handler.cpp Noticias.cpp Npc.cpp Npc_Maluco.cpp Protocolos.cpp PVP.cpp Reset.cpp SistemaDrop.cpp sistema_pontos.cpp Visual.cpp WzAg.cpp WzAg_Exports.cpp
+         AttackFix.cpp
+         calcharacter.cpp
+         ChaosBox.cpp
+         cmm_Aceitar.cpp
+         cmm_AdicionarPontos.cpp
+         cmm_Ajuda.cpp
+         cmm_Casar.cpp
+         cmm_ChatOff_e_ChatOn.cpp
+         cmm_Divorciar.cpp
+         cmm_DroparItem.cpp
+         cmm_Evento.cpp
+         cmm_Evo.cpp
+         cmm_GmFala.cpp
+         cmm_gMove.cpp
+         cmm_GmPuxarTodos.cpp
+         cmm_InvocarMonstro.cpp
+         cmm_LimparInventario.cpp
+         cmm_LimparPK.cpp
+         cmm_MasterReset.cpp
+         cmm_MudarBau.cpp
+         Compiling...
+         cmm_MudarClasse.cpp
+         cmm_PersonagemInfo.cpp
+         cmm_Post.cpp
+         cmm_Puxar.cpp
+         cmm_PuxarTodos.cpp
+         cmm_RecarregarConfig.cpp
+         cmm_RecarregarDrop.cpp
+         cmm_RecarregarLojas.cpp
+         cmm_RecarregarMonstros.cpp
+         cmm_RecarregarMove.cpp
+         cmm_RecarregarTudo.cpp
+         cmm_Resetar.cpp
+         cmm_Skin.cpp
+         cmm_TotalOn.cpp
+         cmm_Zen.cpp
+         Comandos.cpp
+         Configs.cpp
+         defines.cpp
+         Drop_Funcs.cpp
+         Efeitos.cpp
+         Compiling...
+         Eventos.cpp
+         Fixes.cpp
+         Funcoes_ASM.cpp
+         Funcoes_GS.cpp
+         Iniciar_DLL.cpp
+         Jogador.cpp
+         Mapas.cpp
+         MapJoin.cpp
+         Move.cpp
+         Mssql_Defs.cpp
+         Mssql_Handler.cpp
+         Noticias.cpp
+         Npc.cpp
+         Npc_Maluco.cpp
+         Protocolos.cpp
+         PVP.cpp
+         Reset.cpp
+         SistemaDrop.cpp
+         sistema_pontos.cpp
+         Visual.cpp
+         Compiling...
+         WzAg.cpp
+         WzAg_Exports.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Projetos\Projeto 1.00.18\WzAg_1.00.18_GSN\Release\WzAg.dll" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\WzAg.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Projetos\Projeto 1.00.18\WzAg_1.00.18_GSN\Release\WzAg.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Projetos\Projeto 1.00.18\WzAg_1.00.18_GSN\Release\WzAg.lib" /MACHINE:X86 /DLL Release\AttackFix.obj
+         Release\calcharacter.obj
+         Release\ChaosBox.obj
+         Release\cmm_Aceitar.obj
+         Release\cmm_AdicionarPontos.obj
+         Release\cmm_Ajuda.obj
+         Release\cmm_Casar.obj
+         Release\cmm_ChatOff_e_ChatOn.obj
+         Release\cmm_Divorciar.obj
+         Release\cmm_DroparItem.obj
+         Release\cmm_Evento.obj
+         Release\cmm_Evo.obj
+         Release\cmm_GmFala.obj
+         Release\cmm_gMove.obj
+         Release\cmm_GmPuxarTodos.obj
+         Release\cmm_InvocarMonstro.obj
+         Release\cmm_LimparInventario.obj
+         Release\cmm_LimparPK.obj
+         Release\cmm_MasterReset.obj
+         Release\cmm_MudarBau.obj
+         Release\cmm_MudarClasse.obj
+         Release\cmm_PersonagemInfo.obj
+         Release\cmm_Post.obj
+         Release\cmm_Puxar.obj
+         Release\cmm_PuxarTodos.obj
+         Release\cmm_RecarregarConfig.obj
+         Release\cmm_RecarregarDrop.obj
+         Release\cmm_RecarregarLojas.obj
+         Release\cmm_RecarregarMonstros.obj
+         Release\cmm_RecarregarMove.obj
+         Release\cmm_RecarregarTudo.obj
+         Release\cmm_Resetar.obj
+         Release\cmm_Skin.obj
+         Release\cmm_TotalOn.obj
+         Release\cmm_Zen.obj
+         Release\Comandos.obj
+         Release\Configs.obj
+         Release\defines.obj
+         Release\Drop_Funcs.obj
+         Release\Efeitos.obj
+         Release\Eventos.obj
+         Release\Fixes.obj
+         Release\Funcoes_ASM.obj
+         Release\Funcoes_GS.obj
+         Release\Iniciar_DLL.obj
+         Release\Jogador.obj
+         Release\Mapas.obj
+         Release\MapJoin.obj
+         Release\Move.obj
+         Release\Mssql_Defs.obj
+         Release\Mssql_Handler.obj
+         Release\Noticias.obj
+         Release\Npc.obj
+         Release\Npc_Maluco.obj
+         Release\Protocolos.obj
+         Release\PVP.obj
+         Release\Reset.obj
+         Release\SistemaDrop.obj
+         Release\sistema_pontos.obj
+         Release\Visual.obj
+         Release\WzAg.obj
+         Release\WzAg_Exports.obj
+         sqlapi.lib
+            Creating library D:\Projetos\Projeto 1.00.18\WzAg_1.00.18_GSN\Release\WzAg.lib and object D:\Projetos\Projeto 1.00.18\WzAg_1.00.18_GSN\Release\WzAg.exp
+         Generating code
+         Finished generating code
+         WzAg.vcxproj -> D:\Projetos\Projeto 1.00.18\WzAg_1.00.18_GSN\Release\WzAg.dll
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Projetos\Projeto 1.00.18\WzAg_1.00.18_GSN\Release\WzAg.dll;#2" /manifest Release\WzAg.dll.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\WzAg.unsuccessfulbuild".
+         Touching "Release\WzAg.lastbuildstate".
+     1>Done Building Project "D:\Projetos\Projeto 1.00.18\WzAg_1.00.18_GSN\WzAg\WzAg.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:43.13

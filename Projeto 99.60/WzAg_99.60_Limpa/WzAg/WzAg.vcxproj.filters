@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="WzAg.cpp">
+      <Filter>WzAg</Filter>
+    </ClCompile>
+    <ClCompile Include="WzAg_Exports.cpp">
+      <Filter>WzAg</Filter>
+    </ClCompile>
+    <ClCompile Include="defines.cpp">
+      <Filter>Definiçoes</Filter>
+    </ClCompile>
+    <ClCompile Include="Fixes.cpp">
+      <Filter>Fixes</Filter>
+    </ClCompile>
+    <ClCompile Include="Funcoes_ASM.cpp">
+      <Filter>Funções</Filter>
+    </ClCompile>
+    <ClCompile Include="Funcoes_GS.cpp">
+      <Filter>Funções</Filter>
+    </ClCompile>
+    <ClCompile Include="Configs.cpp">
+      <Filter>Configs</Filter>
+    </ClCompile>
+    <ClCompile Include="TNotice.cpp">
+      <Filter>Sistema TNotice</Filter>
+    </ClCompile>
+    <ClCompile Include="TNotice_Hook.cpp">
+      <Filter>Sistema TNotice</Filter>
+    </ClCompile>
+    <ClCompile Include="GameServer.cpp" />
+    <ClCompile Include="ChatChore.cpp">
+      <Filter>ChatCore</Filter>
+    </ClCompile>
+    <ClCompile Include="Items.cpp">
+      <Filter>Estruturas</Filter>
+    </ClCompile>
+    <ClCompile Include="Usuario.cpp">
+      <Filter>Estruturas</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_post.cpp">
+      <Filter>ChatCore\/post</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_addpontos.cpp">
+      <Filter>ChatCore\/add</Filter>
+    </ClCompile>
+    <ClCompile Include="Mssql_Defs.cpp">
+      <Filter>Mssql</Filter>
+    </ClCompile>
+    <ClCompile Include="GS.cpp">
+      <Filter>Estruturas</Filter>
+    </ClCompile>
+    <ClCompile Include="Npc.cpp">
+      <Filter>Npc</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_bau.cpp">
+      <Filter>ChatCore\/bau %28Mudar Baú%29</Filter>
+    </ClCompile>
+    <ClCompile Include="ChaosBox.cpp">
+      <Filter>ChaosBox</Filter>
+    </ClCompile>
+    <ClCompile Include="PVP.cpp">
+      <Filter>PVP</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_limparpk.cpp">
+      <Filter>ChatCore\/limparpk</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_reset.cpp">
+      <Filter>ChatCore\/reset</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_MasterReset.cpp">
+      <Filter>ChatCore\/masterreset</Filter>
+    </ClCompile>
+    <ClCompile Include="Move.cpp">
+      <Filter>Move</Filter>
+    </ClCompile>
+    <ClCompile Include="Drop_Funcs.cpp">
+      <Filter>Drop Custom</Filter>
+    </ClCompile>
+    <ClCompile Include="SistemaDrop.cpp">
+      <Filter>Drop Custom</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_dc.cpp">
+      <Filter>ChatCore\Comandos GM\/dc</Filter>
+    </ClCompile>
+    <ClCompile Include="gObjAddSearch.cpp">
+      <Filter>Fixes\gObjAddSearch</Filter>
+    </ClCompile>
+    <ClCompile Include="MapJoin.cpp">
+      <Filter>MapJoin</Filter>
+    </ClCompile>
+    <ClCompile Include="calcharacter.cpp">
+      <Filter>CalCharacter</Filter>
+    </ClCompile>
+    <ClCompile Include="bonus_p_lvl.cpp">
+      <Filter>gObjLevelUp %28Bonus por LVL%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Attack.cpp">
+      <Filter>AttackArea</Filter>
+    </ClCompile>
+    <ClCompile Include="ProtocolCore.cpp">
+      <Filter>Protocolos</Filter>
+    </ClCompile>
+    <ClCompile Include="Mssql_Queryes.cpp">
+      <Filter>Mssql</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_gmove.cpp">
+      <Filter>ChatCore\Comandos GM\/gmove</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_puxartodos.cpp">
+      <Filter>ChatCore\Comandos GM\/puxartodos</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_puxar.cpp">
+      <Filter>ChatCore\Comandos GM\/puxar &lt;Nick&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_rconfig.cpp">
+      <Filter>ChatCore\Comandos GM\/rconfig</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_drop.cpp">
+      <Filter>ChatCore\Comandos GM\/drop</Filter>
+    </ClCompile>
+    <ClCompile Include="cmm_Chuva.cpp">
+      <Filter>ChatCore\Comandos GM\/chuva</Filter>
+    </ClCompile>
+    <ClCompile Include="JoinServer.cpp">
+      <Filter>JoinServer Fix</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="WzAg.h">
+      <Filter>WzAg</Filter>
+    </ClInclude>
+    <ClInclude Include="defines.h">
+      <Filter>Definiçoes</Filter>
+    </ClInclude>
+    <ClInclude Include="Fixes.h">
+      <Filter>Fixes</Filter>
+    </ClInclude>
+    <ClInclude Include="Funcoes.h">
+      <Filter>Funções</Filter>
+    </ClInclude>
+    <ClInclude Include="Tokenizer.h">
+      <Filter>Funções</Filter>
+    </ClInclude>
+    <ClInclude Include="Configs.h">
+      <Filter>Configs</Filter>
+    </ClInclude>
+    <ClInclude Include="TNotice.h">
+      <Filter>Sistema TNotice</Filter>
+    </ClInclude>
+    <ClInclude Include="ChatCore.h">
+      <Filter>ChatCore</Filter>
+    </ClInclude>
+    <ClInclude Include="Usuario.h">
+      <Filter>Estruturas</Filter>
+    </ClInclude>
+    <ClInclude Include="Itens.h">
+      <Filter>Estruturas</Filter>
+    </ClInclude>
+    <ClInclude Include="Mssql_Defs.h">
+      <Filter>Mssql</Filter>
+    </ClInclude>
+    <ClInclude Include="SQLAPI.h">
+      <Filter>Mssql</Filter>
+    </ClInclude>
+    <ClInclude Include="GS.h">
+      <Filter>Estruturas</Filter>
+    </ClInclude>
+    <ClInclude Include="Npc.h">
+      <Filter>Npc</Filter>
+    </ClInclude>
+    <ClInclude Include="ChaosBox.h">
+      <Filter>ChaosBox</Filter>
+    </ClInclude>
+    <ClInclude Include="Estruturas.h">
+      <Filter>Estruturas</Filter>
+    </ClInclude>
+    <ClInclude Include="PVP.h">
+      <Filter>PVP</Filter>
+    </ClInclude>
+    <ClInclude Include="Move.h">
+      <Filter>Move</Filter>
+    </ClInclude>
+    <ClInclude Include="Drop_Funcs.h">
+      <Filter>Drop Custom</Filter>
+    </ClInclude>
+    <ClInclude Include="SistemaDrop.h">
+      <Filter>Drop Custom</Filter>
+    </ClInclude>
+    <ClInclude Include="gObjAddSearch.h">
+      <Filter>Fixes\gObjAddSearch</Filter>
+    </ClInclude>
+    <ClInclude Include="MapJoin.h">
+      <Filter>MapJoin</Filter>
+    </ClInclude>
+    <ClInclude Include="calcharacter.h">
+      <Filter>CalCharacter</Filter>
+    </ClInclude>
+    <ClInclude Include="bonus_p_lvl.h">
+      <Filter>gObjLevelUp %28Bonus por LVL%29</Filter>
+    </ClInclude>
+    <ClInclude Include="Attack.h">
+      <Filter>AttackArea</Filter>
+    </ClInclude>
+    <ClInclude Include="ProtocolCore.h">
+      <Filter>Protocolos</Filter>
+    </ClInclude>
+    <ClInclude Include="Mssql_Queryes.h">
+      <Filter>Mssql</Filter>
+    </ClInclude>
+    <ClInclude Include="JoinServer.h">
+      <Filter>JoinServer Fix</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="WzAg">
+      <UniqueIdentifier>{d8245fa1-b9cd-401b-a53e-6391ad8b7703}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Protocolos">
+      <UniqueIdentifier>{92b93f51-411f-4d07-bb4b-6082cd73668a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fixes">
+      <UniqueIdentifier>{12960581-a2ba-42ed-9396-3d75fc8b3009}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Funções">
+      <UniqueIdentifier>{9640155d-e2c7-4180-8a39-43524126d6c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sistema TNotice">
+      <UniqueIdentifier>{6fdf62a8-6c49-43e3-aab1-415b93287310}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Definiçoes">
+      <UniqueIdentifier>{654b1b61-bd40-44cc-8927-2bc9edc28880}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Configs">
+      <UniqueIdentifier>{69e663c2-3737-4139-a6be-2e3e78b8a499}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ChatCore">
+      <UniqueIdentifier>{f71867f7-e29a-4a26-9c3b-ddaaad89aa93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Estruturas">
+      <UniqueIdentifier>{11ec1b65-fe61-47e7-ba88-6c6bee47891e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ChatCore\/post">
+      <UniqueIdentifier>{950e02e2-0032-4f26-b494-ccea40a03fff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ChatCore\/add">
+      <UniqueIdentifier>{40201b56-36ba-44c6-8825-1172287242ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mssql">
+      <UniqueIdentifier>{e0425d65-6ec4-4262-91a1-ac6437eb9415}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Npc">
+      <UniqueIdentifier>{0d41e3c8-ca46-4013-92a8-e6715dfe4f8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ChatCore\/bau %28Mudar Baú%29">
+      <UniqueIdentifier>{b99eae9c-7f85-48e4-849e-0dcd95b44b0b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ChaosBox">
+      <UniqueIdentifier>{8cfc9941-6e5e-4d7c-a39a-9633a310b49f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PVP">
+      <UniqueIdentifier>{59b0d94e-b944-47f9-ac02-a032c76881d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ChatCore\/limparpk">
+      <UniqueIdentifier>{f9d432dd-2866-48fc-8542-cafb95bf2887}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ChatCore\/reset">
+      <UniqueIdentifier>{406aa998-09d0-4af6-a66b-c6a6cbb8cc9c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ChatCore\/masterreset">
+      <UniqueIdentifier>{64e185d5-1a0b-430f-8517-69872d374421}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Move">
+      <UniqueIdentifier>{4be2ab9d-dde9-498c-98f5-52c6647d3d93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Drop Custom">
+      <UniqueIdentifier>{6cc00eae-b7b9-4dcc-91e1-350d968f2882}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fixes\gObjAddSearch">
+      <UniqueIdentifier>{afb7aca8-72e0-4d9a-9bd7-1cf4d7b187ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MapJoin">
+      <UniqueIdentifier>{b78ff5cd-7c90-445f-8193-1af3316d0515}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CalCharacter">
+      <UniqueIdentifier>{1045970b-0b60-4a78-aaa1-37b2d8c67cd6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gObjLevelUp %28Bonus por LVL%29">
+      <UniqueIdentifier>{19d5e3da-0cfc-452a-98e5-a25dd9456823}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AttackArea">
+      <UniqueIdentifier>{dc574041-f419-458e-81f6-6024a1033a3a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ChatCore\Comandos GM">
+      <UniqueIdentifier>{aa3a807c-749b-443f-bd43-1514ad0c46b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ChatCore\Comandos GM\/puxar &lt;Nick&gt;">
+      <UniqueIdentifier>{31a7fb38-05d7-45bf-95cb-942d5ddb96c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ChatCore\Comandos GM\/puxartodos">
+      <UniqueIdentifier>{a0c33cfd-9cb6-4df3-845e-aa9883260e62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ChatCore\Comandos GM\/gmove">
+      <UniqueIdentifier>{4e346057-cde5-4e4e-bb7c-2c27b33360cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ChatCore\Comandos GM\/dc">
+      <UniqueIdentifier>{10235b50-0047-49a2-ade8-f76923e65625}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ChatCore\Comandos GM\/rconfig">
+      <UniqueIdentifier>{76514b41-89ec-41b4-87bf-84b64e53fa03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ChatCore\Comandos GM\/drop">
+      <UniqueIdentifier>{9ed31ccc-1f5d-49a9-8bf2-2cadc6eebd72}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ChatCore\Comandos GM\/chuva">
+      <UniqueIdentifier>{7ba64aeb-ac9e-47d8-9e58-03c63751c0af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="JoinServer Fix">
+      <UniqueIdentifier>{6604d721-ad52-4804-9f15-870c691786f2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="sqlapi.lib">
+      <Filter>Mssql</Filter>
+    </Library>
+  </ItemGroup>
+</Project>

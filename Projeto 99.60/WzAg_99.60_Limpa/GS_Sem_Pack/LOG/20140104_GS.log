@@ -1,0 +1,317 @@
+Gate information data load complete.
+[Skill] Skill information data load complete
+[Skill_Local] Skill information data load complete
+[Quest] ( Find the 'Scroll of Emperor'!) Load : Index 0, SubInfoCount 2
+[Quest] ( Three Treasures of Mu) Load : Index 1, SubInfoCount 3
+[Quest] (Gain'Hero status'!) Load : Index 2, SubInfoCount 2
+[Quest] (Secret of'Dark Stone') Load : Index 3, SubInfoCount 1
+02:43:06 [Quest] [SetQuestItem] Scroll of the Emperor
+02:43:06 [Quest] [SetQuestItem] Scroll of the Emperor
+02:43:06 [Quest] [SetQuestItem] Broken Sword
+02:43:06 [Quest] [SetQuestItem] Tear of Elf
+02:43:06 [Quest] [SetQuestItem] Soul Shard of Wizard
+02:43:06 [Quest] [SetQuestItem] Scroll of the Emperor
+02:43:06 [Quest] [SetQuestItem] Scroll of the Emperor
+02:43:06 [Quest] [SetQuestItem] Broken Sword
+02:43:06 [Option Reload] ¡Ú¡Ú¡Ú MaxUser ¡Ù¡Ù¡Ù  : 100
+Guild creation option 1
+Guild delete option 1
+Characters above level 200 can create a guild
+02:43:06 [Option] Trade on
+[Option] ChaosBox = 1
+[Option] ChaosEvent = 1
+[Option] ChaosEventServer = 127.0.0.1
+[Option] AttackEventRegenTime = 0
+02:43:06 [Option] Auto Looting Time Set : 20
+02:43:06 [Option] Dropping item when killed by Murderer
+02:43:06 [Option] Item drop rate : 100 %
+02:43:06 [DevilSquare] Close
+02:43:06 [DevilSquare] Sync Open Time. [15]min remain
+02:43:06 [Option] Connect Server IP(127.0.0.1) / PORT(55557)
+User Object Size = 5488
+..\Data\eventitembag.txt Item Load Complete
+..\Data\eventitembag2.txt Item Load Complete
+..\Data\eventitembag3.txt Item Load Complete
+02:43:06 [StarOfXMas] Eventitemnum = 459,EventItemLevel = 1, EventItemDropRate = 2, ItemDropRate = 100, ExItemDropRate = 1
+..\Data\eventitembag4.txt Item Load Complete
+..\Data\eventitembag5.txt Item Load Complete
+..\Data\eventitembag5.txt Item Load Complete
+..\Data\eventitembag6.txt Item Load Complete
+..\Data\eventitembag7.txt Item Load Complete
+..\Data\eventitembag8.txt Item Load Complete
+..\Data\eventitembag9.txt Item Load Complete
+..\Data\eventitembag10.txt Item Load Complete
+..\Data\eventitembag11.txt Item Load Complete
+..\Data\eventitembag12.txt Item Load Complete
+..\Data\eventitembag13.txt Item Load Complete
+..\Data\eventitembag14.txt Item Load Complete
+..\Data\eventitembag15.txt Item Load Complete
+02:43:06 [KundumKalima] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 99, ExItemDropRate = 1
+..\Data\eventitembag17.txt Item Load Complete
+..\Data\DevilSquare.dat file load!
+..\Data\BloodCastle.dat file load!
+..\Data\RingAttackEvent.dat file load!
+02:43:06 [Ring Event] Sync Start Time. [1] min remain (START HOUR:2, MIN:45)
+..\Data\ChaosCastle.dat file load!
+[DOTH] ..\Data\EventManagement.dat file load!
+Shop data load complete
+error : Monster location setting error D:\WORK\MU_UNICODE_WORK\MuGameServer\SOURCE\user.cpp 3212
+error-L2 : 567 class : 0
+error : Monster location setting error D:\WORK\MU_UNICODE_WORK\MuGameServer\SOURCE\user.cpp 3212
+error-L2 : 568 class : 0
+error : Monster location setting error D:\WORK\MU_UNICODE_WORK\MuGameServer\SOURCE\user.cpp 3212
+error-L2 : 569 class : 0
+error : Monster location setting error D:\WORK\MU_UNICODE_WORK\MuGameServer\SOURCE\user.cpp 3212
+error-L2 : 571 class : 0
+error : Monster location setting error D:\WORK\MU_UNICODE_WORK\MuGameServer\SOURCE\user.cpp 3212
+error-L2 : 575 class : 0
+02:43:23 SkyLand Boss Shield Setting!!
+02:43:23 SkyLand Boss Shield Setting!!
+02:43:23 SkyLand Boss Shield Setting!!
+02:43:23 SkyLand Boss Shield Setting!!
+02:43:23 SkyLand Boss Shield Setting!!
+02:43:23 [DevilSquare] Close
+02:43:23 [DevilSquare] Sync Open Time. [12]min remain
+02:43:23 [Blood Castle] (1) Sync Open Time. [46] min remain
+02:43:23 [Blood Castle] (1) SetState CLOSED
+02:43:23 [Blood Castle] (2) Sync Open Time. [46] min remain
+02:43:23 [Blood Castle] (2) SetState CLOSED
+02:43:23 [Blood Castle] (3) Sync Open Time. [46] min remain
+02:43:23 [Blood Castle] (3) SetState CLOSED
+02:43:23 [Blood Castle] (4) Sync Open Time. [46] min remain
+02:43:23 [Blood Castle] (4) SetState CLOSED
+02:43:23 [Blood Castle] (5) Sync Open Time. [46] min remain
+02:43:23 [Blood Castle] (5) SetState CLOSED
+02:43:23 [Blood Castle] (6) Sync Open Time. [46] min remain
+02:43:23 [Blood Castle] (6) SetState CLOSED
+02:43:23 [Blood Castle] (7) Sync Open Time. [46] min remain
+02:43:23 [Blood Castle] (7) SetState CLOSED
+02:43:23 [Chaos Castle] (1) Sync Start Time. [556] min remain (START HOUR:12, MIN:0)
+02:43:23 [Chaos Castle] (1) SetState CLOSED
+02:43:23 [Chaos Castle] (2) Sync Start Time. [556] min remain (START HOUR:12, MIN:0)
+02:43:23 [Chaos Castle] (2) SetState CLOSED
+02:43:23 [Chaos Castle] (3) Sync Start Time. [556] min remain (START HOUR:12, MIN:0)
+02:43:23 [Chaos Castle] (3) SetState CLOSED
+02:43:23 [Chaos Castle] (4) Sync Start Time. [556] min remain (START HOUR:12, MIN:0)
+02:43:23 [Chaos Castle] (4) SetState CLOSED
+02:43:23 [Chaos Castle] (5) Sync Start Time. [556] min remain (START HOUR:12, MIN:0)
+02:43:23 [Chaos Castle] (5) SetState CLOSED
+02:43:23 [Chaos Castle] (6) Sync Start Time. [556] min remain (START HOUR:12, MIN:0)
+02:43:23 [Chaos Castle] (6) SetState CLOSED
+Total 1 count IP load
+LoginServer connect IP[ 127.0.0.1 ]
+RankingServer Connect IP [ 127.0.0.1 ]
+EventChip Connect IP [ 127.0.0.1 ]
+DataServer connect IP[ 127.0.0.1 ] PORT [ 55960 ]
+DataServer connect IP[ 127.0.0.1 ] PORT [ 55962 ]
+ExDB Server Check..
+ExDB Server Online
+GameServer create PORT [ 55901 ]
+Whole connection closed
+Gate information data load complete.
+[Skill] Skill information data load complete
+[Skill_Local] Skill information data load complete
+[Quest] ( Find the 'Scroll of Emperor'!) Load : Index 0, SubInfoCount 2
+[Quest] ( Three Treasures of Mu) Load : Index 1, SubInfoCount 3
+[Quest] (Gain'Hero status'!) Load : Index 2, SubInfoCount 2
+[Quest] (Secret of'Dark Stone') Load : Index 3, SubInfoCount 1
+02:45:47 [Quest] [SetQuestItem] Scroll of the Emperor
+02:45:47 [Quest] [SetQuestItem] Scroll of the Emperor
+02:45:47 [Quest] [SetQuestItem] Broken Sword
+02:45:47 [Quest] [SetQuestItem] Tear of Elf
+02:45:47 [Quest] [SetQuestItem] Soul Shard of Wizard
+02:45:47 [Quest] [SetQuestItem] Scroll of the Emperor
+02:45:47 [Quest] [SetQuestItem] Scroll of the Emperor
+02:45:47 [Quest] [SetQuestItem] Broken Sword
+02:45:47 [Option Reload] ¡Ú¡Ú¡Ú MaxUser ¡Ù¡Ù¡Ù  : 100
+Guild creation option 1
+Guild delete option 1
+Characters above level 200 can create a guild
+02:45:47 [Option] Trade on
+[Option] ChaosBox = 1
+[Option] ChaosEvent = 1
+[Option] ChaosEventServer = 127.0.0.1
+[Option] AttackEventRegenTime = 0
+02:45:47 [Option] Auto Looting Time Set : 20
+02:45:47 [Option] Dropping item when killed by Murderer
+02:45:47 [Option] Item drop rate : 100 %
+02:45:47 [DevilSquare] Close
+02:45:47 [DevilSquare] Sync Open Time. [13]min remain
+02:45:47 [Option] Connect Server IP(127.0.0.1) / PORT(55557)
+User Object Size = 5488
+..\Data\eventitembag.txt Item Load Complete
+..\Data\eventitembag2.txt Item Load Complete
+..\Data\eventitembag3.txt Item Load Complete
+02:45:47 [StarOfXMas] Eventitemnum = 459,EventItemLevel = 1, EventItemDropRate = 2, ItemDropRate = 100, ExItemDropRate = 1
+..\Data\eventitembag4.txt Item Load Complete
+..\Data\eventitembag5.txt Item Load Complete
+..\Data\eventitembag5.txt Item Load Complete
+..\Data\eventitembag6.txt Item Load Complete
+..\Data\eventitembag7.txt Item Load Complete
+..\Data\eventitembag8.txt Item Load Complete
+..\Data\eventitembag9.txt Item Load Complete
+..\Data\eventitembag10.txt Item Load Complete
+..\Data\eventitembag11.txt Item Load Complete
+..\Data\eventitembag12.txt Item Load Complete
+..\Data\eventitembag13.txt Item Load Complete
+..\Data\eventitembag14.txt Item Load Complete
+..\Data\eventitembag15.txt Item Load Complete
+02:45:47 [KundumKalima] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 99, ExItemDropRate = 1
+..\Data\eventitembag17.txt Item Load Complete
+..\Data\DevilSquare.dat file load!
+..\Data\BloodCastle.dat file load!
+..\Data\RingAttackEvent.dat file load!
+02:45:47 [Ring Event] Sync Start Time. [119] min remain (START HOUR:4, MIN:45)
+..\Data\ChaosCastle.dat file load!
+[DOTH] ..\Data\EventManagement.dat file load!
+Shop data load complete
+error : Monster location setting error D:\WORK\MU_UNICODE_WORK\MuGameServer\SOURCE\user.cpp 3212
+error-L2 : 563 class : 0
+error : Monster location setting error D:\WORK\MU_UNICODE_WORK\MuGameServer\SOURCE\user.cpp 3212
+error-L2 : 564 class : 0
+error : Monster location setting error D:\WORK\MU_UNICODE_WORK\MuGameServer\SOURCE\user.cpp 3212
+error-L2 : 565 class : 0
+error : Monster location setting error D:\WORK\MU_UNICODE_WORK\MuGameServer\SOURCE\user.cpp 3212
+error-L2 : 571 class : 0
+error : Monster location setting error D:\WORK\MU_UNICODE_WORK\MuGameServer\SOURCE\user.cpp 3212
+error-L2 : 574 class : 0
+02:45:49 SkyLand Boss Shield Setting!!
+02:45:49 SkyLand Boss Shield Setting!!
+02:45:49 SkyLand Boss Shield Setting!!
+02:45:49 SkyLand Boss Shield Setting!!
+02:45:49 SkyLand Boss Shield Setting!!
+02:45:50 [DevilSquare] Close
+02:45:50 [DevilSquare] Sync Open Time. [10]min remain
+02:45:50 [Blood Castle] (1) Sync Open Time. [44] min remain
+02:45:50 [Blood Castle] (1) SetState CLOSED
+02:45:50 [Blood Castle] (2) Sync Open Time. [44] min remain
+02:45:50 [Blood Castle] (2) SetState CLOSED
+02:45:50 [Blood Castle] (3) Sync Open Time. [44] min remain
+02:45:50 [Blood Castle] (3) SetState CLOSED
+02:45:50 [Blood Castle] (4) Sync Open Time. [44] min remain
+02:45:50 [Blood Castle] (4) SetState CLOSED
+02:45:50 [Blood Castle] (5) Sync Open Time. [44] min remain
+02:45:50 [Blood Castle] (5) SetState CLOSED
+02:45:50 [Blood Castle] (6) Sync Open Time. [44] min remain
+02:45:50 [Blood Castle] (6) SetState CLOSED
+02:45:50 [Blood Castle] (7) Sync Open Time. [44] min remain
+02:45:50 [Blood Castle] (7) SetState CLOSED
+02:45:50 [Chaos Castle] (1) Sync Start Time. [554] min remain (START HOUR:12, MIN:0)
+02:45:50 [Chaos Castle] (1) SetState CLOSED
+02:45:50 [Chaos Castle] (2) Sync Start Time. [554] min remain (START HOUR:12, MIN:0)
+02:45:50 [Chaos Castle] (2) SetState CLOSED
+02:45:50 [Chaos Castle] (3) Sync Start Time. [554] min remain (START HOUR:12, MIN:0)
+02:45:50 [Chaos Castle] (3) SetState CLOSED
+02:45:50 [Chaos Castle] (4) Sync Start Time. [554] min remain (START HOUR:12, MIN:0)
+02:45:50 [Chaos Castle] (4) SetState CLOSED
+02:45:50 [Chaos Castle] (5) Sync Start Time. [554] min remain (START HOUR:12, MIN:0)
+02:45:50 [Chaos Castle] (5) SetState CLOSED
+02:45:50 [Chaos Castle] (6) Sync Start Time. [554] min remain (START HOUR:12, MIN:0)
+02:45:50 [Chaos Castle] (6) SetState CLOSED
+Total 1 count IP load
+LoginServer connect IP[ 127.0.0.1 ]
+RankingServer Connect IP [ 127.0.0.1 ]
+EventChip Connect IP [ 127.0.0.1 ]
+DataServer connect IP[ 127.0.0.1 ] PORT [ 55960 ]
+DataServer connect IP[ 127.0.0.1 ] PORT [ 55962 ]
+ExDB Server Check..
+ExDB Server Online
+Authentication error from authentication server
+02:45:50 ExDB Server Login Fail: 0
+GameServer create PORT [ 55901 ]
+02:49:03 connect : [6400][192.168.0.103]
+02:49:06 join send : (6400)marx95
+02:49:06 login [192.168.0.103]  : (marx95) numer:0/ db:565
+error : Invalid place to be located causes location modification.
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: His class is not allowed to use the skill
+error-L2: It's not his class
+02:49:09 error-L2 : Unknown Item found [marx95][Hotch] (Type:-1, LEV:0, DUR:0 OP1:0, OP2:0, OP3:1, NEWOP:3, SET:0)
+error-L2: It's not his class
+02:49:09 (6400)(marx95)(Hotch) Character select
+02:49:09 [MapServerMng] CheckMoveMapSvr() - MapServer Check OK [marx95][Hotch] : MAP-0 / SVR-0
+02:49:09 [marx95][Hotch] Ability Point Error (-31851)(106)
+[Hotch] Friend List Request
+02:49:38 [marx95][Hotch]SI[17,Scroll of Soul Barrier,6,0,0,0]serial:[503316480] dur:[8] Ex:[0,0,0,0,0,0,0] Set[0]
+02:49:38 [marx95][Hotch]SI[18,Kris,0,0,1,3]serial:[11800606] dur:[255] Ex:[0,0,0,0,0,0,0] Set[0]
+02:49:38 [marx95][Hotch]SI[19,Kris,0,0,1,3]serial:[8388608] dur:[255] Ex:[0,0,0,0,0,0,0] Set[0]
+02:49:38 [marx95][Hotch] Item Save Complete. Money [ 200000000 ]
+02:49:38 [marx95][Hotch] SW [0,Dragon Shield,12,0,0,1]serial:[2017015040] dur:[114] Ex:[0,0,0,0,0,0,0] Set:[0]
+02:49:38 [marx95][Hotch] SW [2,Tower Shield,0,1,1,3]serial:[0] dur:[255] Ex:[0,0,0,0,0,0,0] Set:[0]
+02:49:38 [marx95][Hotch] SW [4,Scroll of Poison,0,0,0,0]serial:[-486539264] dur:[255] Ex:[0,0,0,0,0,0,0] Set:[0]
+02:49:38 [marx95][Hotch] SW [5,Kris,0,0,1,3]serial:[-351535233] dur:[255] Ex:[0,0,0,0,0,0,0] Set:[0]
+02:49:38 [marx95][Hotch] SW [6,Scroll of Soul Barrier,0,0,0,0]serial:[2147450804] dur:[255] Ex:[0,0,0,0,0,0,0] Set:[0]
+02:49:38 [marx95][Hotch] SW [7,Falchion,0,1,1,3]serial:[1460719616] dur:[255] Ex:[0,0,0,0,0,0,0] Set:[0]
+02:49:38 [marx95][Hotch] SW [25,Scroll of Soul Barrier,6,0,0,0]serial:[503316480] dur:[8] Ex:[0,0,0,0,0,0,0] Set:[0]
+02:49:38 [marx95][Hotch] SW [26,Kris,0,0,1,3]serial:[11800606] dur:[255] Ex:[0,0,0,0,0,0,0] Set:[0]
+02:49:38 [marx95][Hotch] SW [27,Kris,0,0,1,3]serial:[8388608] dur:[255] Ex:[0,0,0,0,0,0,0] Set:[0]
+02:49:38 [marx95][Hotch] Store Save Complete. wMoney[0]
+Connection Closed, dwIoSize == 0 (Index:6400)
+02:49:42 [marx95][Hotch] Skill Save Complete. 0 44
+02:49:42 [marx95][Hotch]SI[17,Scroll of Soul Barrier,6,0,0,0]serial:[503316480] dur:[8] Ex:[0,0,0,0,0,0,0] Set[0]
+02:49:42 [marx95][Hotch]SI[18,Kris,0,0,1,3]serial:[11800606] dur:[255] Ex:[0,0,0,0,0,0,0] Set[0]
+02:49:42 [marx95][Hotch]SI[19,Kris,0,0,1,3]serial:[8388608] dur:[255] Ex:[0,0,0,0,0,0,0] Set[0]
+02:49:42 [marx95][Hotch] Item Save Complete. Money [ 200000000 ]
+02:49:42 [marx95][Hotch] CharInfoSave : Class=17 Level=400 LVPoint=3000 Exp=3822148080 Str=32767 Dex=32767 Vit=32767 Energy=32767 Leadership:32767 Map=0 Pk=0
+02:49:42 (6400)(marx95)(Hotch) Character closed
+02:49:42 (6400)logout-send : marx95 [192.168.0.103]
+02:49:42 (6400)logout :  [192.168.0.103]
+Whole connection closed

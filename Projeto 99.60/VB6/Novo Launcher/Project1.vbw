@@ -1,0 +1,12 @@
+Progressbar_user = 0, 0, 0, 0, C, 200, 200, 1089, 651, C
+Download = 50, 50, 921, 485, C
+extrair = 50, 50, 939, 501, C
+CRC = 125, 125, 1090, 498, C
+Defs_N_Funcs = 50, 50, 939, 501, C
+ModProcessos = 50, 50, 914, 475, C
+registros = 0, 0, 0, 0, C
+Launcher = 50, 50, 914, 475, , 25, 25, 918, 624, C
+jcbutton = 0, 0, 0, 0, C, 100, 100, 989, 551, C
+lerininini = 50, 50, 932, 501, C
+Funcs_Noticias = 125, 125, 1014, 576, 
+Inicio_Verificacoes = 25, 25, 889, 450, C

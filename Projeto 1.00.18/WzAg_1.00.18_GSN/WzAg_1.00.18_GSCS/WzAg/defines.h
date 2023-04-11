@@ -1,0 +1,6 @@
+#define DataSend						((bool(*)(int aIndex, unsigned char* lpMsg, DWORD dwSize)) 0x0049D0C0)
+#define ProtocolCore					((void(*)(BYTE protoNum, unsigned char * aRecv, int aLen, int aIndex, BOOL Encrypt, int serial)) 0x00432CD0)
+#define GCServerMsgStringSend			((void(*)(char* szMsg, int aIndex, BYTE type)) 0x00435DF0)
+#define gObjCalCharacter				((void(*)(int aIndex)) 0x004D4820)
+#define gObjAttack						((int(*)(LPOBJ lpObj, LPOBJ lpTargetObj, class CMagicInf* lpMagic, int magicsend, unsigned char MSBFlag, int AttackDamage, BOOL bCombo)) 0x004F4FB0)
+#define GCMoneySend						((void(*)(int aIndex, unsigned long money)) 0x004385F0)

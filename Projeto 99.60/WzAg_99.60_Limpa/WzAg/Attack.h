@@ -1,0 +1,2 @@
+//int gObjAttack_Hook(LPOBJ lpObj, LPOBJ lpTargetObj, class CMagicInf* lpMagic, int magicsend, unsigned char MSBFlag, int AttackDamage, BOOL bCombo);
+int gObjAttack_Hook(struct OBJECTSTRUCT* lpObj, struct OBJECTSTRUCT* lpTargetObj, class CMagicInf* lpMagic, int magicsend, unsigned char MSBFlag, int AttackDamage, int bCombo);

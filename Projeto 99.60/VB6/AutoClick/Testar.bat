@@ -1,0 +1,1 @@
+AutoClick.exe MuNovus.net

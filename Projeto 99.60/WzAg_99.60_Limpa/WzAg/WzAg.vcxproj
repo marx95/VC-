@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{C7141837-0DDC-4E52-888F-D36B560BD7B4}</ProjectGuid>
+    <RootNamespace>WzAg</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <TargetExt>.dll</TargetExt>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="Attack.cpp" />
+    <ClCompile Include="bonus_p_lvl.cpp" />
+    <ClCompile Include="calcharacter.cpp" />
+    <ClCompile Include="ChaosBox.cpp" />
+    <ClCompile Include="cmm_addpontos.cpp" />
+    <ClCompile Include="ChatChore.cpp" />
+    <ClCompile Include="cmm_bau.cpp" />
+    <ClCompile Include="cmm_Chuva.cpp" />
+    <ClCompile Include="cmm_dc.cpp" />
+    <ClCompile Include="cmm_drop.cpp" />
+    <ClCompile Include="cmm_gmove.cpp" />
+    <ClCompile Include="cmm_limparpk.cpp" />
+    <ClCompile Include="cmm_MasterReset.cpp" />
+    <ClCompile Include="cmm_post.cpp" />
+    <ClCompile Include="cmm_puxar.cpp" />
+    <ClCompile Include="cmm_puxartodos.cpp" />
+    <ClCompile Include="cmm_rconfig.cpp" />
+    <ClCompile Include="cmm_reset.cpp" />
+    <ClCompile Include="Configs.cpp" />
+    <ClCompile Include="defines.cpp" />
+    <ClCompile Include="Drop_Funcs.cpp" />
+    <ClCompile Include="Fixes.cpp" />
+    <ClCompile Include="Funcoes_ASM.cpp" />
+    <ClCompile Include="Funcoes_GS.cpp" />
+    <ClCompile Include="GameServer.cpp" />
+    <ClCompile Include="gObjAddSearch.cpp" />
+    <ClCompile Include="GS.cpp" />
+    <ClCompile Include="Items.cpp" />
+    <ClCompile Include="JoinServer.cpp" />
+    <ClCompile Include="MapJoin.cpp" />
+    <ClCompile Include="Move.cpp" />
+    <ClCompile Include="Mssql_Defs.cpp" />
+    <ClCompile Include="Mssql_Queryes.cpp" />
+    <ClCompile Include="Npc.cpp" />
+    <ClCompile Include="ProtocolCore.cpp" />
+    <ClCompile Include="PVP.cpp" />
+    <ClCompile Include="SistemaDrop.cpp" />
+    <ClCompile Include="TNotice.cpp" />
+    <ClCompile Include="TNotice_Hook.cpp" />
+    <ClCompile Include="Usuario.cpp" />
+    <ClCompile Include="WzAg.cpp" />
+    <ClCompile Include="WzAg_Exports.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Attack.h" />
+    <ClInclude Include="bonus_p_lvl.h" />
+    <ClInclude Include="calcharacter.h" />
+    <ClInclude Include="ChaosBox.h" />
+    <ClInclude Include="ChatCore.h" />
+    <ClInclude Include="Configs.h" />
+    <ClInclude Include="defines.h" />
+    <ClInclude Include="Drop_Funcs.h" />
+    <ClInclude Include="Estruturas.h" />
+    <ClInclude Include="gObjAddSearch.h" />
+    <ClInclude Include="GS.h" />
+    <ClInclude Include="Itens.h" />
+    <ClInclude Include="JoinServer.h" />
+    <ClInclude Include="MapJoin.h" />
+    <ClInclude Include="Move.h" />
+    <ClInclude Include="Mssql_Defs.h" />
+    <ClInclude Include="Mssql_Queryes.h" />
+    <ClInclude Include="Npc.h" />
+    <ClInclude Include="PVP.h" />
+    <ClInclude Include="SistemaDrop.h" />
+    <ClInclude Include="SQLAPI.h" />
+    <ClInclude Include="Usuario.h" />
+    <ClInclude Include="Fixes.h" />
+    <ClInclude Include="Funcoes.h" />
+    <ClInclude Include="ProtocolCore.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="TNotice.h" />
+    <ClInclude Include="Tokenizer.h" />
+    <ClInclude Include="WzAg.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="sqlapi.lib" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

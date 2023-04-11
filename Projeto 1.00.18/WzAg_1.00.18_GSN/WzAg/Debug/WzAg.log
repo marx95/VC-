@@ -1,0 +1,83 @@
+﻿Build started 28/01/2014 01:51:54.
+     1>Project "C:\Users\Marcao\Desktop\WZAG_MAIN_MUMAKER_VB6\WzAg_1.00.18_GSN\WzAg\WzAg.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\WzAg.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Marcao\Desktop\WZAG_MAIN_MUMAKER_VB6\WzAg_1.00.18_GSN\Debug\WzAg.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\WzAg.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Marcao\Desktop\WZAG_MAIN_MUMAKER_VB6\WzAg_1.00.18_GSN\Debug\WzAg.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Marcao\Desktop\WZAG_MAIN_MUMAKER_VB6\WzAg_1.00.18_GSN\Debug\WzAg.lib" /MACHINE:X86 Debug\AttackFix.obj
+         Debug\calcharacter.obj
+         Debug\ChaosBox.obj
+         Debug\cmm_Aceitar.obj
+         Debug\cmm_AdicionarPontos.obj
+         Debug\cmm_Ajuda.obj
+         Debug\cmm_Casar.obj
+         Debug\cmm_ChatOff_e_ChatOn.obj
+         Debug\cmm_DesbugarPontos.obj
+         Debug\cmm_Divorciar.obj
+         Debug\cmm_DroparItem.obj
+         Debug\cmm_Evento.obj
+         Debug\cmm_Evo.obj
+         Debug\cmm_GmFala.obj
+         Debug\cmm_gMove.obj
+         Debug\cmm_GmPuxarTodos.obj
+         Debug\cmm_InvocarMonstro.obj
+         Debug\cmm_LimparInventario.obj
+         Debug\cmm_LimparPK.obj
+         Debug\cmm_MasterReset.obj
+         Debug\cmm_MudarBau.obj
+         Debug\cmm_MudarClasse.obj
+         Debug\cmm_PersonagemInfo.obj
+         Debug\cmm_Post.obj
+         Debug\cmm_Puxar.obj
+         Debug\cmm_PuxarTodos.obj
+         Debug\cmm_RecarregarConfig.obj
+         Debug\cmm_RecarregarDrop.obj
+         Debug\cmm_RecarregarLojas.obj
+         Debug\cmm_RecarregarMonstros.obj
+         Debug\cmm_RecarregarMove.obj
+         Debug\cmm_RecarregarTudo.obj
+         Debug\cmm_Resetar.obj
+         Debug\cmm_Sair.obj
+         Debug\cmm_SelPersonagem.obj
+         Debug\cmm_SelServer.obj
+         Debug\cmm_Skin.obj
+         Debug\cmm_TotalOn.obj
+         Debug\cmm_TrocarItem.obj
+         Debug\cmm_Zen.obj
+         Debug\Comandos.obj
+         Debug\Configs.obj
+         Debug\defines.obj
+         Debug\Drop_Funcs.obj
+         Debug\Efeitos.obj
+         Debug\Eventos.obj
+         Debug\expc.obj
+         Debug\Fixes.obj
+         Debug\Funcoes_ASM.obj
+         Debug\Funcoes_GS.obj
+         Debug\Iniciar_DLL.obj
+         Debug\Jogador.obj
+         Debug\Mapas.obj
+         Debug\MensagemLogin.obj
+         Debug\Move.obj
+         Debug\Mssql_Defs.obj
+         Debug\Mssql_Handler.obj
+         Debug\Noticias.obj
+         Debug\Npc.obj
+         Debug\Npc_Maluco.obj
+         Debug\Protocolos.obj
+         Debug\PVP.obj
+         Debug\Reset.obj
+         Debug\SistemaDrop.obj
+         Debug\sistema_pontos.obj
+         Debug\Visual.obj
+         Debug\WzAg.obj
+         Debug\WzAg_Exports.obj
+         sqlapi.lib
+            Creating library C:\Users\Marcao\Desktop\WZAG_MAIN_MUMAKER_VB6\WzAg_1.00.18_GSN\Debug\WzAg.lib and object C:\Users\Marcao\Desktop\WZAG_MAIN_MUMAKER_VB6\WzAg_1.00.18_GSN\Debug\WzAg.exp
+     1>LINK : fatal error LNK1561: entry point must be defined
+     1>Done Building Project "C:\Users\Marcao\Desktop\WZAG_MAIN_MUMAKER_VB6\WzAg_1.00.18_GSN\WzAg\WzAg.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.22

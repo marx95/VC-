@@ -1,0 +1,134 @@
+﻿Build started 11/07/2013 07:15:22.
+     1>Project "D:\ProjetoMuNovus\WzAg_99.60_Limpa\WzAg\WzAg.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "D:\ProjetoMuNovus\WzAg_99.60_Limpa\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\WzAg.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ChaosBox.cpp cmm_addpontos.cpp ChatChore.cpp cmm_bau.cpp cmm_limparpk.cpp cmm_MasterReset.cpp cmm_post.cpp cmm_reset.cpp Configs.cpp defines.cpp Drop_Funcs.cpp Fixes.cpp Funcoes_ASM.cpp Funcoes_GS.cpp GameServer.cpp GS.cpp Items.cpp Move.cpp Mssql_Defs.cpp Mssql_Handler.cpp Npc.cpp Protocolos.cpp PVP.cpp SistemaDrop.cpp TNotice.cpp TNotice_Hook.cpp Usuario.cpp WzAg.cpp WzAg_Exports.cpp
+         WzAg_Exports.cpp
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2065: 'LPOBJ' : undeclared identifier
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2146: syntax error : missing ')' before identifier 'lpObj'
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2059: syntax error : ')'
+         WzAg.cpp
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2065: 'LPOBJ' : undeclared identifier
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2146: syntax error : missing ')' before identifier 'lpObj'
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2059: syntax error : ')'
+         Usuario.cpp
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2065: 'LPOBJ' : undeclared identifier
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2146: syntax error : missing ')' before identifier 'lpObj'
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2059: syntax error : ')'
+         TNotice_Hook.cpp
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2065: 'LPOBJ' : undeclared identifier
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2146: syntax error : missing ')' before identifier 'lpObj'
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2059: syntax error : ')'
+         TNotice.cpp
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2065: 'LPOBJ' : undeclared identifier
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2146: syntax error : missing ')' before identifier 'lpObj'
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2059: syntax error : ')'
+         SistemaDrop.cpp
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2065: 'LPOBJ' : undeclared identifier
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2146: syntax error : missing ')' before identifier 'lpObj'
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2059: syntax error : ')'
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.cpp(251): error C2365: 'gEventMonsterItemDrop_Hook' : redefinition; previous definition was 'data variable'
+                 d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22) : see declaration of 'gEventMonsterItemDrop_Hook'
+         PVP.cpp
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2065: 'LPOBJ' : undeclared identifier
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2146: syntax error : missing ')' before identifier 'lpObj'
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2059: syntax error : ')'
+         Protocolos.cpp
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2065: 'LPOBJ' : undeclared identifier
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2146: syntax error : missing ')' before identifier 'lpObj'
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2059: syntax error : ')'
+         Npc.cpp
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2065: 'LPOBJ' : undeclared identifier
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2146: syntax error : missing ')' before identifier 'lpObj'
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2059: syntax error : ')'
+         Mssql_Handler.cpp
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2065: 'LPOBJ' : undeclared identifier
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2146: syntax error : missing ')' before identifier 'lpObj'
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2059: syntax error : ')'
+         Mssql_Defs.cpp
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2065: 'LPOBJ' : undeclared identifier
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2146: syntax error : missing ')' before identifier 'lpObj'
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2059: syntax error : ')'
+         Move.cpp
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2065: 'LPOBJ' : undeclared identifier
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2146: syntax error : missing ')' before identifier 'lpObj'
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2059: syntax error : ')'
+         Items.cpp
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2065: 'LPOBJ' : undeclared identifier
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2146: syntax error : missing ')' before identifier 'lpObj'
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2059: syntax error : ')'
+         GS.cpp
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2065: 'LPOBJ' : undeclared identifier
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2146: syntax error : missing ')' before identifier 'lpObj'
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2059: syntax error : ')'
+         GameServer.cpp
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2065: 'LPOBJ' : undeclared identifier
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2146: syntax error : missing ')' before identifier 'lpObj'
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2059: syntax error : ')'
+         Funcoes_GS.cpp
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2065: 'LPOBJ' : undeclared identifier
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2146: syntax error : missing ')' before identifier 'lpObj'
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2059: syntax error : ')'
+         Funcoes_ASM.cpp
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2065: 'LPOBJ' : undeclared identifier
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2146: syntax error : missing ')' before identifier 'lpObj'
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2059: syntax error : ')'
+         Fixes.cpp
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2065: 'LPOBJ' : undeclared identifier
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2146: syntax error : missing ')' before identifier 'lpObj'
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2059: syntax error : ')'
+         Drop_Funcs.cpp
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2065: 'LPOBJ' : undeclared identifier
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2146: syntax error : missing ')' before identifier 'lpObj'
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2059: syntax error : ')'
+         defines.cpp
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2065: 'LPOBJ' : undeclared identifier
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2146: syntax error : missing ')' before identifier 'lpObj'
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2059: syntax error : ')'
+         Generating Code...
+         Compiling...
+         Configs.cpp
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2065: 'LPOBJ' : undeclared identifier
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2146: syntax error : missing ')' before identifier 'lpObj'
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2059: syntax error : ')'
+         cmm_reset.cpp
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2065: 'LPOBJ' : undeclared identifier
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2146: syntax error : missing ')' before identifier 'lpObj'
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2059: syntax error : ')'
+         cmm_post.cpp
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2065: 'LPOBJ' : undeclared identifier
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2146: syntax error : missing ')' before identifier 'lpObj'
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2059: syntax error : ')'
+         cmm_MasterReset.cpp
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2065: 'LPOBJ' : undeclared identifier
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2146: syntax error : missing ')' before identifier 'lpObj'
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2059: syntax error : ')'
+         cmm_limparpk.cpp
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2065: 'LPOBJ' : undeclared identifier
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2146: syntax error : missing ')' before identifier 'lpObj'
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2059: syntax error : ')'
+         cmm_bau.cpp
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2065: 'LPOBJ' : undeclared identifier
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2146: syntax error : missing ')' before identifier 'lpObj'
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2059: syntax error : ')'
+         ChatChore.cpp
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2065: 'LPOBJ' : undeclared identifier
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2146: syntax error : missing ')' before identifier 'lpObj'
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2059: syntax error : ')'
+         cmm_addpontos.cpp
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2065: 'LPOBJ' : undeclared identifier
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2146: syntax error : missing ')' before identifier 'lpObj'
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2059: syntax error : ')'
+         ChaosBox.cpp
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2065: 'LPOBJ' : undeclared identifier
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2146: syntax error : missing ')' before identifier 'lpObj'
+     1>d:\projetomunovus\wzag_99.60_limpa\wzag\sistemadrop.h(22): error C2059: syntax error : ')'
+         Generating Code...
+     1>Done Building Project "D:\ProjetoMuNovus\WzAg_99.60_Limpa\WzAg\WzAg.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:21.46
